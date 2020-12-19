@@ -2,7 +2,8 @@
 ## Overview of Project 
 This project executes an analysis of green energy stock to aid clients wanting to expand their portfolio of investments 
 ### Purpose
-There are many forms of green energy where one can invest their money. In this project, clients want to compare their investment in one green energy company against other green energy investments. After calculating the total daily volume of each companys stock and the return on the investment in years 2017 and 2018, 
+There are many forms of green energy where one can invest their money. In this project, clients want to compare their investment in one green energy company against other green energy investments. In this analysis, the clients have been investing in company "DQ" and want to expand their investments to other green energy companies. After calculating the total daily volume of each companys stock and the return on the investment in years 2017 and 2018, we can advise clients on which investments are seeing positive returns. 
+
 ## Analysis and Challenges 
 ### Analysis of 2017 stocks
 ![AllStocks2017](https://user-images.githubusercontent.com/75647359/102694711-7836af80-41e8-11eb-87f5-35951dded10e.png)
