@@ -13,4 +13,6 @@ There are many forms of green energy where one can invest their money. In this p
 ![2018timeran](https://user-images.githubusercontent.com/75647359/102695703-a0291180-41ee-11eb-8d82-8055e594fefa.png)
 
 ### Challenges and Difficulties Encountered 
+Factoring and refactoring code can be difficult to optimize both efficiency in code as well as run time of the code. A benefit from refactroing code would be the speed at which the code runs. Refacorting is helpful because it improves the design of software while additionally making it easier to understand. Ideally, refactoring code improves the internal structure and design to make for easier updates as well as faster downloading speed. On the other hand, refactoring code can lead to bugs and it takes a lot of time. It may not be worth it to the maintainability of the code to invest time in refactoring the code base. 
+
 ## Results 
