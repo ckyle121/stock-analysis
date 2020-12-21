@@ -19,4 +19,4 @@ The graph below shows the daily volume of stock trades and the return on investm
 Factoring and refactoring code can be difficult to optimize both efficiency in code as well as run time of the code. A benefit from refactroing code would be the speed at which the code runs. Refacorting is helpful because it improves the design of software while additionally making it easier to understand. Ideally, refactoring code improves the internal structure and design to make for easier updates as well as faster downloading speed. On the other hand, refactoring code can lead to bugs and it takes a lot of time. It may not be worth it to the maintainability of the code to invest time in refactoring the code base. 
 
 ## Results 
-In 2017, the 
+In 2017, the majority of the companies had a positvie return on investment, while in 2018, only two companies had a positive return on investment. For investors of green energy, it is important to take the total return over many years to get the full picture of gaining positive returns. 
